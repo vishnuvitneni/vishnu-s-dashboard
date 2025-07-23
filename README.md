@@ -190,7 +190,8 @@
 <body>
   <div class="scroll-indicator" id="scrollIndicator"></div>
   <header>
-    <img src="profile.jpg" alt="Your Name" class="profile-img">
+    <img src="![profile](https://github.com/user-attachments/assets/4cbcbdb4-a46a-40f0-a077-ac3b087db4e6)
+" alt="vishnu" class="profile-img">
     <h1>vitneni vishnu</h1>
     <p>Web Developer & Designer</p>
     <svg class="header-wave" viewBox="0 0 1440 60" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill="#f4f4f4" d="M0,30 C360,60 1080,0 1440,30 L1440,60 L0,60 Z"></path></svg>
